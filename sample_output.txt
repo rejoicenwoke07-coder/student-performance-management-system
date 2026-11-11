@@ -1,0 +1,18 @@
+--------------------------------------------------
+          STUDENT PERFORMANCE REPORT
+--------------------------------------------------
+Student: Rejoice
+Department: Computer Engineering
+
+Performance Report
+Python: 85
+Mathematics: 75
+Programming: 80
+
+Total Score: 240
+Average Score: 80.00
+Grade: A
+--------------------------------------------------
+Academic Status
+Academic Standing: First Class Academic Standing
+--------------------------------------------------
