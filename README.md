@@ -92,7 +92,7 @@ The project demonstrates the gradual development of Python programming skills th
 
 ### Running Version 1.0
 
-Run `student_performance_management_system.py` to use the original single-student performance system.
+Run `student_performance_system.py` to use the original single-student performance system.
 
 ### Running Version 2.0
 
