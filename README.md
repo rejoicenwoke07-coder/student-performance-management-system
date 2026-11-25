@@ -94,10 +94,13 @@ The project demonstrates the gradual development of Python programming skills th
 
 Run `student_performance_system.py` to use the original single-student performance system.
 
+Sample output: `sample_output_v1.txt`
+
 ### Running Version 2.0
 
 Run `student_performance_tracker.py` to use the multi-student performance tracker.
 
+Sample output: `sample_output_v2.txt`
 ## Project Scope and Limitations
 
 This project consists of two versions of a console-based Python application.

@@ -1,0 +1,29 @@
+===== STUDENT PERFORMANCE TRACKER =====
+
+1. Add student
+2. Display all students
+3. Search student
+4. Update student score
+5. Delete student
+6. Generate class report
+7. Exit
+
+Sample student records:
+
+ST001 - Daniel - 75
+ST002 - Grace - 42
+ST003 - Michael - 60
+ST004 - Sarah - 88
+ST005 - David - 35
+ST006 - Esther - 93
+
+===== CLASS REPORT =====
+
+Average score: 65.5
+Passed: 4
+Total score: 393
+Total students: 6
+Esther (ST006): 93
+David (ST005): 35
+
+Exited
